@@ -174,10 +174,12 @@ class Repository(ModelObject):
         "csharp",
         "go",
         "java-kotlin",
+        "javascript",
         "javascript-typescript",
         "python",
         "ruby",
         "swift",
+        "typescript",
     }
 
     @property
